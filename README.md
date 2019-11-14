@@ -112,4 +112,4 @@ The suggested order for going through each of the directories is:
       Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes), one
       of the oldest algorithms known (ca. 200 BC).
 
-Install pipenv
+Install pipenv shell
